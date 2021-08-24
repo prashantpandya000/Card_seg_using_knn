@@ -8,6 +8,7 @@ The file is at a customer level with 18 behavioral variables.
 
 Expectations from the candidate:
 •	Advanced data preparation: Build an ‘enriched’ customer profile by deriving “intelligent” KPIs such as:
+
 o	Monthly average purchase and cash advance amount
 o	Purchases by type (one-off, installments)
 o	Average amount per purchase and cash advance transaction,
